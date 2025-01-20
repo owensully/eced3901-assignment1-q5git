@@ -1,3 +1,1 @@
-# eced3901-assignment1-q5git
-
-Here is some README file! You should change it...
+My GIT Commit! Done by Owen Sullivan, B00892152
